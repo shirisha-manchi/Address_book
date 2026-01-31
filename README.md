@@ -38,5 +38,4 @@ The application allows users to manage contact information efficiently and ensur
 - Improved problem-solving and modular programming skills  
 - Better understanding of structures and pointers  
 
-## Project Structure
 
